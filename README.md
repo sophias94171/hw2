@@ -1,5 +1,8 @@
 # hw2
 
+## How to Setup and Run the Program 
+Running `$ sudo python3 fft.py ` at each frequency will get the following results.
+
 ## Result
 
 ### - waveform and the FFT of the sinewave
