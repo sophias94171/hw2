@@ -15,6 +15,8 @@
     
 3.Add 3 buttons, uLCD, RC circuit to mbed.
 
+    -connect three buttons to the pin of D8 D9 D10
+
 4.Connect picoscope.
 
 5.Start VS code to edit main.cpp.
