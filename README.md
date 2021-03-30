@@ -41,7 +41,10 @@
 
 ## Result
 
-### - waveform and the FFT of the sinewave
+###  Picoscope
+
+
+###  waveform and the FFT of the sinewave
 
   Running `$ sudo python3 fft.py ` at each frequency will get the following results.
 
