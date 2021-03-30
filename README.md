@@ -1,7 +1,22 @@
 # hw2
 
-## How to Setup and Run the Program 
-Running `$ sudo python3 fft.py ` at each frequency will get the following results.
+## Setup the Program 
+
+1.Create a new Mbed project.
+
+    `$ cd ~/ee2405/hw2`
+    `$ mbed new hw2 --scm none`
+    `$ cd hw2`    
+
+2.Add "4DGL-uLCD-SE" library to the current project.
+
+    `$ git clone https://gitlab.larc-nthu.net/ee2405_2021/4dgl-ulcd-se.git`
+    `$ rm -rf ./4dgl-ulcd-se/.git`
+    
+3.cd 5_3_uLCD
+    `$ `
+    
+## Run the Program 
 
 ## Result
 
