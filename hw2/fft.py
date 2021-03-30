@@ -22,7 +22,7 @@ frq = k/T # a vector of frequencies; two sides frequency range
 frq = frq[range(int(n/2))] # one side frequency range
 
 
-serdev = '/dev/ttyACM0'
+serdev = '/dev/ttyACM1'
 s = serial.Serial(serdev)
 s.read_until(b'\n')
 a = s.readline()
