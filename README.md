@@ -28,7 +28,9 @@
     `$ sudo mbed compile --source . --source ~/ee2405/mbed-os-build/ -m B_L4S5I_IOT01A -t GCC_ARM -f `
     
 2.Press button to select different frequency
+    
     - two buttons to select up and down
+    
     - Confirm button to comfirm the frequency
 
 3. Plot the waveform and the FFT of the sinewave in the same plot with Python in PC.
