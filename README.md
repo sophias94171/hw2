@@ -13,10 +13,27 @@
     `$ git clone https://gitlab.larc-nthu.net/ee2405_2021/4dgl-ulcd-se.git`
     `$ rm -rf ./4dgl-ulcd-se/.git`
     
-3.cd 5_3_uLCD
-    `$ `
+3.Add 3 buttons, uLCD, RC circuit to mbed.
+
+4.Connect picoscope.
+
+5.Start VS code to edit main.cpp.
+
+    `$ code main.cpp`
     
 ## Run the Program 
+
+1.Compile and run
+
+    `$ sudo mbed compile --source . --source ~/ee2405/mbed-os-build/ -m B_L4S5I_IOT01A -t GCC_ARM -f `
+    
+2.Press button to select different frequency
+    - two buttons to select up and down
+    - Confirm button to comfirm the frequency
+
+3. Plot the waveform and the FFT of the sinewave in the same plot with Python in PC.
+
+    `$ sudo python3 fft.py ` 
 
 ## Result
 
