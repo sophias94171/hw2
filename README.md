@@ -2,7 +2,9 @@
 
 ## Result
 
-### waveform and the FFT of the sinewave
+### - waveform and the FFT of the sinewave
+
+  Running `$ sudo python3 fft.py ` at each frequency will get the following results.
 
 20 Hz
 
