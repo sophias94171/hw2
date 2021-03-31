@@ -133,35 +133,35 @@ adc_data = ain;
 
     20 Hz
 
- ![](1.png)
+ ![](20hz.png)
 
-    56 Hz
+    50 Hz
 
-![](2.png)
+![](50hz.png)
 
-    81 Hz
+    75 Hz
 
-![](3.png)
+![](75hz.png)
 
     106 Hz (cutoff frequency)
 
-![](5.png)
+![](106hz.png)
 
-    131 Hz
+    125 Hz
     
- ![](6.png)
+ ![](125hz.png)
 
-    156 Hz
+    150 Hz
     
- ![](7.png)
+ ![](150hz.png)
 
     250 Hz
     
-![](8.png)
+![](250hz.png)
 
     500 Hz
 
-![](9.png)
+![](500hz.png)
 
 
 ###  waveform and the FFT of the sinewave
@@ -172,25 +172,25 @@ adc_data = ain;
 
  ![](20.png)
 
-    56 Hz
+    50 Hz
 
-![](56.png)
+![](50.png)
 
-    81 Hz
+    75 Hz
 
-![](81.png)
+![](75.png)
 
     106 Hz (cutoff frequency)
 
 ![](106.png)
 
-    131 Hz
+    125 Hz
     
- ![](131.png)
+ ![](125.png)
 
-    156 Hz
+    150 Hz
     
- ![](156.png)
+ ![](150.png)
 
     250 Hz
     
