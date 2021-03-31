@@ -129,6 +129,8 @@ adc_data = ain;
 
 ###  Picoscope
 
+- Red lines are the waveform before passing the filter, Blue ones are the waveform after passing the filter.
+
     20 Hz
 
  ![](1.png)
