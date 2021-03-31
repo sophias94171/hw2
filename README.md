@@ -83,7 +83,7 @@ void display(){
 ```
 
 - Waveform specification
-S  =  mod 1 0 ( 1 + 0 + 6 + 0 + 9 + 1 + 2 + 2 + 1 ) = 2
+S  =  mod 10 ( 1 + 0 + 6 + 0 + 9 + 1 + 2 + 2 + 1 ) = 2
 
 - set aout 
 
@@ -101,6 +101,7 @@ T = 1000/f[f_idx];
             index = 0;
 ```
  
+- prepare data for FFT
 
 ```
 adc_data = ain;
